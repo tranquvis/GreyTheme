@@ -3,7 +3,7 @@
   "dark": false,
   "author": "Olga Berdnikova",
 
-  "editorScheme": "/themes/grayScheme.xml",
+  "editorScheme": "/themes/Light.xml",
 
   "ui": {
     "*": {
