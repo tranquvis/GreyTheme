@@ -1,11 +1,14 @@
 <idea-plugin>
-  <id>com.jetbrains.grayTheme</id>
-  <name>Gray Theme</name>
-  <version>1.1.1</version>
-  <vendor email="olga.berdnikova@jetbrains.com" url="https://github.com/OlyaB">Olga Berdnikova</vendor>
+  <id>tranquvis.intellij.graylighttheme</id>
+  <name>Andreas Gray/Light Theme</name>
+  <version>0.1</version>
+  <vendor email="kaltenleitner.andreas@gmail.com" url="https://github.com/tranquvis">Andreas Kaltenleitner</vendor>
 
   <description><![CDATA[
-  A low-contrast light theme with lots of space between text lines. Made for writing in Markdown inside IntelliJ IDEs.
+  Based on <a href="https://plugins.jetbrains.com/plugin/12103-gray-theme">Gray Theme</a>
+  with editor scheme from <a href="https://plugins.jetbrains.com/plugin/12697-intellij-light-theme">IntelliJ Light Theme</a>.
+
+  Thanks to Olga Berdnikova and Jetbrains.
   <br/><br/>
 
   For version 2019.1 and above.
@@ -22,30 +25,7 @@
   </ul>
   <br/>
 
-  <a href="https://github.com/OlyaB/GreyTheme/issues">Report an issue</a> | <a href="https://github.com/OlyaB/GreyTheme">On GitHub</a> | <a href="http://www.jetbrains.org/intellij/sdk/docs/reference_guide/ui_themes/themes_intro.html">How to make a theme</a>
-  <br/><br/><br/>
-
-  <img src="https://raw.githubusercontent.com/OlyaB/GreyTheme/master/screenshots/gray-main-window-java.png" border="0" width="700" alt="Main window Java screenshot">
-  <br/>
-  <img src="https://raw.githubusercontent.com/OlyaB/GreyTheme/master/screenshots/gray-main-window-markdown.png" border="0" width="700" alt="Main window Markdown screenshot">
-  <br/>
-  <img src="https://raw.githubusercontent.com/OlyaB/GreyTheme/master/screenshots/gray-settings.png" border="0" width="700" alt="Settings screenshot">
-      ]]></description>
-
-  <change-notes><![CDATA[
-  <b>1.1.1</b><br/>
-  Fix completion selection foreground for 2019.1<br/><br/>
-
-  <b>1.1</b><br/>
-  Support UI changes for 2019.2: new tabs, completion, etc.<br/><br/>
-
-  <b>1.0.1</b>
-  <ul>
-    <li>Add installation instructions</li>
-    <li>Unbundle plugin screenshots</li>
-  </ul>
-      ]]>
-  </change-notes>
+]]></description>
 
   <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
   <idea-version since-build="191.0"/>
